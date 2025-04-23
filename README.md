@@ -14,6 +14,7 @@
 
 ## DA
 * [The Amazing Ways Coca Cola Uses Artificial Intelligence And Big Data To Drive Success](https://www.forbes.com/sites/bernardmarr/2017/09/18/the-amazing-ways-coca-cola-uses-artificial-intelligence-ai-and-big-data-to-drive-success/)
+* [How Netflix Uses Data Science?](https://www.analyticsvidhya.com/blog/2024/07/netflix-uses-data-science/)
 
 ## Wow
 * [Diaper-beer syndrome](https://www.forbes.com/forbes/1998/0406/6107128a.html) - forbes.com
