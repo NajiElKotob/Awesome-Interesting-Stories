@@ -16,6 +16,9 @@
 * [The Amazing Ways Coca Cola Uses Artificial Intelligence And Big Data To Drive Success](https://www.forbes.com/sites/bernardmarr/2017/09/18/the-amazing-ways-coca-cola-uses-artificial-intelligence-ai-and-big-data-to-drive-success/)
 * [How Netflix Uses Data Science?](https://www.analyticsvidhya.com/blog/2024/07/netflix-uses-data-science/)
 
+## People
+* [The mathematician who cracked Wall Street | Jim Simons](https://www.youtube.com/watch?v=U5kIdtMJGc8) - TED
+
 ## Wow
 * [Diaper-beer syndrome](https://www.forbes.com/forbes/1998/0406/6107128a.html) - forbes.com
 * [Why Ice Cream Is Linked to Shark Attacks](https://www.kdnuggets.com/2019/01/dr-data-ice-cream-linked-shark-attacks.html) - kdnuggets.com
